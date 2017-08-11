@@ -1,6 +1,29 @@
 #index1 {
-  background-color: #DC143C; }
+  background-color: #DC143C;
+  height: 600px; }
   #index1 .mipelis {
-    color: white; }
+    color: white;
+    font-size: 100px;
+    font-family: "Anton", sans-serif;
+    margin-top: 170px; }
+
+#botiti {
+  margin-top: 50px; }
+  #botiti #botoncito {
+    color: #DC143C;
+    text-decoration: none;
+    height: 40px;
+    width: 350px;
+    margin-top: 10px; }
+  #botiti a {
+    text-decoration: none; }
+
+#forgot {
+  color: white;
+  font-family: "Open Sans Condensed", sans-serif; }
+
+
+
+
 
 /*# sourceMappingURL=style.css.map */
